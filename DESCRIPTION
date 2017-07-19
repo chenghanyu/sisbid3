@@ -1,7 +1,7 @@
 Package: sisbid3
 Type: Package
 Title: Illustrate the very basics of package construction
-Version: 0.1.0
+Version: 0.1.1
 Author: Mike Yu
 Maintainer: Mike <cheyu@soe.ucsc.edu>
 Description: Use four spaces when indenting paragraphs within the Description.
